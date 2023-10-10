@@ -1,4 +1,4 @@
 # odin-recipes
-HTML made for training HTML skills and using GIT
+HTML made for training skills and use GIT
 
 Used VSCode, Ubuntu terminal.
