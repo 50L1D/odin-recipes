@@ -2,9 +2,17 @@
 
 div {
     color: white;
-    background-color: black;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
   }
-  
+
+  back {
+    color: white;
+  }
+
   p {
     color: red;
+    background-color: green;
   }
