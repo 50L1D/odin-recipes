@@ -13,3 +13,24 @@
 .yellow{
     background-color: yellow;
 }
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+.avatar.proportioned{
+    width: 300px;
+}
+
+.avatar.distorted{
+    height: 400px;
+    width: 200px;
+}
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 28px;
+    text-align: center;
+}
